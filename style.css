@@ -10,7 +10,7 @@ table{
     border: 2px solid rgb(68, 149, 255);
         /* Oui c'est pas bien mais pour l'instant je sais pas faire autrement !! */
     margin: auto;
-    margin-top: 490px;
+    margin-top: 50vh;
 }
 
 td, th{
